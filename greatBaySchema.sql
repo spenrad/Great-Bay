@@ -11,3 +11,4 @@ CREATE TABLE auctions(
   highest_bid INT default 0,
   PRIMARY KEY (id)
 );
+
